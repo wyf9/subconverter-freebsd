@@ -26,7 +26,7 @@ jobs:
       with:
         usesh: true
         prepare: pkg install -y curl bash git node npm
-        run: cd /root/work && ls -ahl ./* && chmod +x scripts/build.freebsd.release.sh && bash scripts/build.freebsd.release.sh
+        run: cd /root/work/subconverter-freebsd/subconverter-freebsd && ls -ahl ./* && chmod +x scripts/build.freebsd.release.sh && bash scripts/build.freebsd.release.sh
     - name: Upload
       uses: actions/upload-artifact@v4
       with:
