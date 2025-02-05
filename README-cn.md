@@ -1,18 +1,15 @@
 # Fork
 
-This fork has a workflow to build [subconverter](https://github.com/tindy2013/subconverter), files can find in release.
+这个 Fork 添加了 FreeBSD 版 [subconverter](https://github.com/tindy2013/subconverter) 的编译.
 
-Thanks:
+特别感谢:
 
-1. [DearVa/subconverter-serv00](https://github.com/DearVa/subconverter-serv00) *(build yaml)*
-2. DeepSeek *(help to fix errors)*
+1. [DearVa/subconverter-serv00](https://github.com/DearVa/subconverter-serv00) *(配置文件参考)*
+2. DeepSeek *(提供思路)*
 
 > [!TIP]
-> Original README below.
-
-~~我绝不会告诉你我是先写的英文 README 再写中文 README(~~
-
-为什么下面的目录变了? vscode 自动生成的 `Table of contents`(
+> ~~我绝不会告诉你我是先写的英文 README 再写中文 README(~~
+> *以下为原 README 内容.*
 
 ---
 
