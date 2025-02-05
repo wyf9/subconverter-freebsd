@@ -1,3 +1,17 @@
+# Fork
+
+This fork has a workflow to build [subconverter](https://github.com/tindy2013/subconverter), files can find in release.
+
+Thanks:
+
+1. [DearVa/subconverter-serv00](https://github.com/DearVa/subconverter-serv00) *(build yaml)*
+2. DeepSeek *(help to fix errors)*
+
+> [!TIP]
+> Original README below.
+
+---
+
 # subconverter
 
 Utility to convert between various proxy subscription formats.
@@ -11,6 +25,7 @@ Utility to convert between various proxy subscription formats.
 
 [中文文档](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
 
+- [Fork](#fork)
 - [subconverter](#subconverter)
   - [Supported Types](#supported-types)
   - [Quick Usage](#quick-usage)
